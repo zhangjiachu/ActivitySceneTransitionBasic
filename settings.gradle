@@ -1,0 +1,2 @@
+rootProject.name='ActivitySceneTransitionBasic'
+include ':app'
